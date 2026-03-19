@@ -59,7 +59,7 @@ I got this NUC when we emptied my grandfather's home, and since it was quite rec
 #### Specs
 
 - Intel Core i7 4790 (8-Cores @ 4.0GHz)
-- 16Go DDR3 RAM
+- 32Go DDR3 RAM
 - AMD ATI Radeon HD 8490
 - Proxmox VE 8.4.0
 

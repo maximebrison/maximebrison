@@ -2,7 +2,7 @@
 
 ## Main computer
 
-[Test](##Homelab)
+[Test](#Homelab)
 
 ### Specs
 

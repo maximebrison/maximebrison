@@ -2,8 +2,6 @@
 
 ## Main computer
 
-[Test](#Homelab)
-
 ### Specs
 
 - AMD Ryzen 9 3900 (12-Cores @ 3.10GHz)

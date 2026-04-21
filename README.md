@@ -1,6 +1,4 @@
-<h1 align="center">Maxime Brison</h1>
-
-## Who is this guy ?
+# Who is this guy ?
 
 Just a former head waiter in a (locally) famous gastronomic restaurant in *Namur, Belgium*, who decided that life was worth living, and is starting a career in *Web Development*. 
 
@@ -8,15 +6,15 @@ I've taken an interest in computer sciences when I was fourteen, and today, **tw
 
 Anyway, I'm actively looking for my first *Junior* dev position. In the meantime, I'll keep building and updating MasonCMS, making this website as cosy as it can be ;)
 
-## What am I working on ?
+# What am I working on ?
 
 > So I don't seem like a lazy guy
 
-### [MasonCMS](https://www.maximebrison.cc/?page=github1217274231)
+## [MasonCMS](https://www.maximebrison.cc/?page=github1217274231)
 
 A fully featured CMS that fetches your *READMEs* from different git providers, and fashion them into a beautiful website. Easy to setup, easy to manage, easy to forget about !
 
-## Footnote
+# Footnote
 
 Feel free to wander around on my website, you'll find my *projects*, the [tools](https://www.maximebrison.cc/?page=tools) I use (no, it's not just sticks and stones), and a quick word about my [hobbies](https://www.maximebrison.cc/?page=hobbies).
 

@@ -12,8 +12,6 @@ Anyway, I'm actively looking for my first *Junior* dev position. In the meantime
 
 > So I don't seem like a lazy guy
 
-I'm currently working on these projects :
-
 ### [MasonCMS](https://www.maximebrison.cc/?page=github1217274231)
 
 A fully featured CMS that fetches your *READMEs* from different git providers, and fashion them into a beautiful website. Easy to setup, easy to manage, easy to forget about !

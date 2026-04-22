@@ -2,7 +2,7 @@
 
 ## Main computer
 
-> Used for development, CAD, writing, video/photo editing, order my Collect&Go and the occasionnal "I haven't played this game in a long time, let's spend a whole week-end on it !".
+> Used for development, CAD, writing, video/photo editing, ordering my Collect&Go and the occasionnal "I haven't played this game in a long time, let's spend a whole week-end on it !".
 
 ### Specs
 

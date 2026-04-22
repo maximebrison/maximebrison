@@ -10,12 +10,12 @@ Anyway, I'm actively looking for my first *Junior* dev position. In the meantime
 
 > So I don't seem like a lazy guy
 
-## [MasonCMS](https://www.maximebrison.cc/?page=github1217274231)
+## [MasonCMS](https://maximebrison.cc/?page=github1217274231)
 
 A fully featured CMS that fetches your *READMEs* from different git providers, and fashion them into a beautiful website. Easy to setup, easy to manage, easy to forget about !
 
 # Footnote
 
-Feel free to wander around on my website, you'll find my *projects*, the [tools](https://www.maximebrison.cc/?page=tools) I use (no, it's not just sticks and stones), and a quick word about my [hobbies](https://www.maximebrison.cc/?page=hobbies).
+Feel free to wander around on my website, you'll find my *projects*, the [tools](https://maximebrison.cc/?page=tools) I use (no, it's not just sticks and stones), and a quick word about my [hobbies](https://maximebrison.cc/?page=hobbies).
 
 You can contact me at [this email address](mailto:maximebrison@outlook.be) if you have any question, are amazed by my work or want to cover me in pennies.

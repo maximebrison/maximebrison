@@ -72,7 +72,7 @@ Yes, for a NAS a NUC seems like an *odd* choice, but if you didn't know, on this
 
 > Well, the most powerful machine I had lying around (among two other builds with i5 3rd gen, ferocious competition...), so I use it for remote dev and *(for now)* production. 
 
-#### Specs
+### Specs
 
 | Part | Model                               |
 | ---- | ----------------------------------- |
@@ -81,7 +81,7 @@ Yes, for a NAS a NUC seems like an *odd* choice, but if you didn't know, on this
 | RAM  | 32Go DDR3 RAM                       |
 | OS   | Proxmox VE 8.4.0                    |
 
-#### Services
+### Services
 
 - Debian VM with Docker *(prod)*
     - [MasonCMS](https://maximebrison.cc/?page=github1217274231)

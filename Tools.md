@@ -86,3 +86,39 @@ Yes, for a NAS a NUC seems like an *odd* choice, but if you didn't know, on this
 - Debian VM with Docker *(prod)*
     - [MasonCMS](https://maximebrison.cc/?page=github1217274231)
 - Debian VM with Docker *(dev)*
+
+## Handheld
+
+- OnePlus 11
+- iPad Air 11" M2
+
+# Tinkering
+
+> No, I'm not just a *pent-up geek*, I can also do (some) things with my 2 hands
+
+## In my office
+
+| Tool              | Model                    |
+| ----------------- | ------------------------ |
+| 3D Printer        | Creality Ender 3 V1*     |
+| 2D Printer        | HP Color LaserJet CP1215 |
+| Soldering station | Weller WECP Temtronik    |
+| PSU               | Velleman LabPS3005       |
+| Multimeter 1      | Velleman DVM68           |
+| Multimeter 2      | Philips PM 2422 A        |
+
+\* damn it's painful to use
+
+## In my backpack
+
+| Tool        | Model                                                        |
+| ----------- | ------------------------------------------------------------ |
+| Multimeter  | Uni-T UT131C                                                 |
+| Screwdriver | [Bosch ratchet multi-bit](https://www.amazon.com.be/Bosch-Tournevis-Magazine-porte-embout-magnétique/dp/B0BX9DT6C3?pd_rd_w=qdi4f&content-id=amzn1.sym.e7320e48-ee46-4f7f-b827-6c581c14932e&pf_rd_p=e7320e48-ee46-4f7f-b827-6c581c14932e&pf_rd_r=JSMDB76NZ0FD4RHYBK7E&pd_rd_wg=1uOM7&pd_rd_r=8c0c7ce9-f014-49a4-b0e4-60eedabcf14f&pd_rd_i=B0BX9DT6C3&ref_=pd_bap_d_grid_rp_0_1_ec_pr_i&th=1) |
+
+I also have a **set of pliers**, a **mini-hammer** *(you never know)* and a **toothbrush**.
+
+## In my garage
+
+> Soon, I have a lot of crap lying around, I'll need to tidy up a bit before making an inventory.
+

@@ -41,7 +41,7 @@
 | GPU     | Intel Arc Graphics                     |
 | RAM     | 16Go LPDDR5X RAM                       |
 | Monitor | 16" QHD MiniLED Touch display          |
-| OS      | Linux Fedora 46                        |
+| OS      | Linux Fedora 43                        |
 
 ## Homelab #1 - Intel NUC 7i7BNH
 

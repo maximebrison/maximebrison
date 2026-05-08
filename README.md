@@ -14,6 +14,10 @@ Anyway, I'm actively looking for my first *Junior* dev position. In the meantime
 
 A fully featured CMS that fetches your *READMEs* from different git providers, and fashion them into a beautiful website. Easy to setup, easy to manage, easy to forget about !
 
+## Mason Travels
+
+A lightweight travel logbook with an interactive map and logs of your travels. Fully integrable with [MasonCMS](https://maximebrison.cc/?page=github1217274231).
+
 # Footnote
 
 Feel free to wander around on my website, you'll find my *projects*, the [tools](https://maximebrison.cc/?page=tools) I use (no, it's not just sticks and stones), and a quick word about my [hobbies](https://maximebrison.cc/?page=hobbies).

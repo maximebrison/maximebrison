@@ -1,6 +1,6 @@
 # Who is this guy ?
 
-Just a former head waiter in a (locally) famous gastronomic restaurant in *Namur, Belgium*, who decided that life was worth living, and is starting a career in *Web Development*. 
+Just a former head waiter in a (locally) famous gastronomic restaurant in *Namur, Belgium*, who decided that life was worth living, and dreams of starting a career in *IT*. 
 
 I've taken an interest in computer sciences when I was fourteen, and today, **twelve years later**, I'm the proud owner of a **homelab**, my own [CMS](https://github.com/maximebrison/mason), a **Renault Kangoo**, and a **mini-fridge**. Life surely is beautiful.
 

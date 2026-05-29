@@ -4,8 +4,6 @@ Just a former head waiter in a (locally) famous gastronomic restaurant in *Namur
 
 I've taken an interest in computer sciences when I was fourteen, and today, **twelve years later**, I'm the proud owner of a **homelab**, my own [CMS](https://github.com/maximebrison/mason), a **Renault Kangoo**, and a **mini-fridge**. Life surely is beautiful.
 
-Anyway, I'm actively looking for my first *Junior* dev position. In the meantime, I'll keep building and updating MasonCMS, making this website as cosy as it can be ;)
-
 # What am I working on ?
 
 > So I don't seem like a lazy guy

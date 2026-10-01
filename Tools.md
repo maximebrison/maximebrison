@@ -21,17 +21,15 @@
 | ----------------- | ------------------------------------------------------------ |
 | Primary monitor   | DELL U2724D - QHD                                            |
 | Secondary monitor | DELL S3422DWG - QHD+                                         |
-| Keyboard          | SteelSeries Apex RAW                                         |
+| Keyboard          | Keychron K10 Ultra 8K                                        |
 | Mouse             | SteelSeries Rival 300                                        |
 | Audio interface   | [Focusrite Scarlett 2i2 4th gen Audio Interface](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2) |
 | Microphone        | Focusrite CM25 mkIII microphone                              |
-| Headphones        | JBL Live Flex                                                |
-
-> Yeah the JBL Live Flex has nothing to do here, but I lent my *Focusrite HP60 mkIII headphones* to a friend, and always forget to ask for it back... Considering maybe buying a Sennheiser someday, like [these ones](https://www.sennheiser.com/fr-be/catalog/products/casque-decoute/hd-490-pro/hd-490-pro-700286).
+| Headphones        | Behringer DT 770 Pro 80ohms                                  |
 
 ## Laptop Dell Inspiron 16 7640
 
-> Mainly used when visiting my mom and she has issues with her Internet.
+> Used for my courses and when visiting my mom when she has issues with her Internet.
 
 ### Specs
 
@@ -41,7 +39,7 @@
 | GPU     | Intel Arc Graphics                     |
 | RAM     | 16Go LPDDR5X RAM                       |
 | Monitor | 16" QHD MiniLED Touch display          |
-| OS      | Linux Fedora 43                        |
+| OS      | Debian 13.3                            |
 
 ## Homelab #1 - Intel NUC 7i7BNH
 
